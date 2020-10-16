@@ -1,0 +1,63 @@
+{
+  "name": "pixelwolf-reactjs",
+  "displayName": "Pixelwolf Reactjs",
+  "description": "Extension pack for front-end development environment ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "dzannotti.vscode-babel-coloring",
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "joelday.docthis",
+    "mikestead.dotenv",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "vincaslt.highlight-matching-tag",
+    "wix.vscode-import-cost",
+    "xabikos.javascriptsnippets",
+    "ms-vsliveshare.vsliveshare",
+    "esbenp.prettier-vscode",
+    "syler.sass-indented",
+    "sasa.vscode-sass-format",
+    "snipsnapdev.snipsnap-vscode",
+    "cliffordfajardo.hightlight-selections-vscode",
+    "ue.alphabetical-sorter",
+    "coenraads.bracket-pair-colorizer",
+    "orta.vscode-jest",
+    "jpoissonnier.vscode-styled-components",
+    "dsznajder.es7-react-js-snippets",
+    "planbcoding.vscode-react-refactor",
+    "alduncanson.react-hooks-snippets",
+    "msjsdiag.debugger-for-chrome",
+    "firefox-devtools.vscode-firefox-debug"
+  ],
+  "publisher": "pixelwolf",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "keywords": [
+    "react",
+    "front-end",
+    "styled-components",
+    "typescript",
+    "pixelwolf"
+  ],
+  "repository": {
+    "url": "https://github.com/niltonlopes-pixelwolf/pixelwolf-reactjs-extensionpack.git"
+  },
+  "homepage": "https://github.com/niltonlopes-pixelwolf/pixelwolf-reactjs-extensionpack.git",
+  "bugs": {
+    "url": "https://github.com/niltonlopes-pixelwolf/pixelwolf-reactjs-extensionpack.git/issues"
+  }
+}
