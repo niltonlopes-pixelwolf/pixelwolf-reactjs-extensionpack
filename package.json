@@ -38,7 +38,8 @@
     "planbcoding.vscode-react-refactor",
     "alduncanson.react-hooks-snippets",
     "msjsdiag.debugger-for-chrome",
-    "firefox-devtools.vscode-firefox-debug"
+    "firefox-devtools.vscode-firefox-debug",
+    "editorconfig.editorconfig"
   ],
   "publisher": "pixelwolf",
   "icon": "logo.png",
