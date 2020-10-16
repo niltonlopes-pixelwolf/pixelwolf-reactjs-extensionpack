@@ -4,7 +4,26 @@
   "description": "Extension pack for front-end development environment ",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.50.0"
+    "vscode": "^1.40.0"
+  },
+  "publisher": "niltonslf",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "keywords": [
+    "react",
+    "front-end",
+    "styled-components",
+    "typescript"
+  ],
+  "repository": {
+    "url": "https://github.com/niltonlopes-pixelwolf/pixelwolf-reactjs-extensionpack"
+  },
+  "homepage": "https://github.com/niltonlopes-pixelwolf/pixelwolf-reactjs-extensionpack",
+  "bugs": {
+    "url": "https://github.com/niltonlopes-pixelwolf/pixelwolf-reactjs-extensionpack/issues"
   },
   "categories": [
     "Extension Packs"
@@ -40,25 +59,5 @@
     "msjsdiag.debugger-for-chrome",
     "firefox-devtools.vscode-firefox-debug",
     "editorconfig.editorconfig"
-  ],
-  "publisher": "pixelwolf",
-  "icon": "logo.png",
-  "galleryBanner": {
-    "color": "#000000",
-    "theme": "dark"
-  },
-  "keywords": [
-    "react",
-    "front-end",
-    "styled-components",
-    "typescript",
-    "pixelwolf"
-  ],
-  "repository": {
-    "url": "https://github.com/niltonlopes-pixelwolf/pixelwolf-reactjs-extensionpack.git"
-  },
-  "homepage": "https://github.com/niltonlopes-pixelwolf/pixelwolf-reactjs-extensionpack.git",
-  "bugs": {
-    "url": "https://github.com/niltonlopes-pixelwolf/pixelwolf-reactjs-extensionpack.git/issues"
-  }
+  ]
 }
